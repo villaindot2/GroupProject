@@ -15,6 +15,7 @@ const App = () => {
       <Header />
       <Lines2 />
       <Jumbo />
+      
 
     
     
